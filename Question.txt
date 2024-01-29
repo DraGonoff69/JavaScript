@@ -1,0 +1,13 @@
+Javascript works on  sinlge thread and everything is a process. 
+
+
+Javascript Execution Context
+=> Gloabla Execution Context   
+=> Function Execution COntext
+=> Eval Execution Context
+
+Javascript COde is executed in two phase
+=> Memory Creation phase  //location for variables are given
+=> Execution phase
+
+
